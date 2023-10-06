@@ -159,7 +159,13 @@ endmodule
    
 ![jk flips](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/79f490f8-5f77-4746-84c9-e054cab9b8ab)
 
+3. T flipflop:
 
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/b5b5632a-b7d8-4bf9-a192-38cb37bea694)
+
+4. D flipflop:
+
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/f46ea671-331e-46fc-980b-9f64f2340db1)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 1. SR flipflop:
@@ -170,10 +176,12 @@ endmodule
 
 ![jkf wave](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/2c16893c-81dc-4533-8bff-93f504674d18)
 
+3. T flipflop:
 
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/252bb300-970e-4401-902d-dc18dd6376a0)
 
+4. D flipflop:
 
-
-
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/b16d2c26-9b2f-4be2-b8f2-ce0566ecd7ff)
 
 ### RESULTS 
