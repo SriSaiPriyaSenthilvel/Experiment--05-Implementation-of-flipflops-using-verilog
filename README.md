@@ -156,11 +156,16 @@ endmodule
 ![269822219-1dcc2eb2-8cf4-4311-81f9-683df287e3b9](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/c3d4d779-e4c7-468b-a0bb-c304abbb8e6c)
 
 2. JK flipflop:
+   
+![jk flips](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/79f490f8-5f77-4746-84c9-e054cab9b8ab)
 
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+2. JK flipflop:
+
+![jkf wave](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/2c16893c-81dc-4533-8bff-93f504674d18)
 
 
 
