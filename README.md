@@ -239,9 +239,11 @@ endmodule
 
 3. T flipflop:
 
-![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/a928182b-e455-48a7-a1f3-e4bb0fac7816)
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/a07ee8c6-0cdc-48ec-9df5-bea4819eff0f)
 
 4. D flipflop:
 
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/a928182b-e455-48a7-a1f3-e4bb0fac7816)
 
 ### RESULTS 
+SR Flip Flop, JK Flip Flop, T flipflop and D flipflop are implemented successfully.
