@@ -237,5 +237,11 @@ endmodule
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/5a407404-33b1-4335-b811-5ad51e0ec1fe)
 
+3. T flipflop:
+
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/a928182b-e455-48a7-a1f3-e4bb0fac7816)
+
+4. D flipflop:
+
 
 ### RESULTS 
