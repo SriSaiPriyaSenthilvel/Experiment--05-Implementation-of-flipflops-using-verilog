@@ -229,4 +229,14 @@ endmodule
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/b16d2c26-9b2f-4be2-b8f2-ce0566ecd7ff)
 
+### TRUTH TABLE:
+
+1. SR flipflop:
+  
+2. JK flipflop:
+
+
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/b9709da2-9e50-4baa-91ac-d69bd40aeb3b)
+
+
 ### RESULTS 
