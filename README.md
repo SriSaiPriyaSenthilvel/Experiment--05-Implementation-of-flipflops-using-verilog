@@ -235,8 +235,7 @@ endmodule
   
 2. JK flipflop:
 
-
-![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/b9709da2-9e50-4baa-91ac-d69bd40aeb3b)
+![image](https://github.com/SriSaiPriyaSenthilvel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475702/5a407404-33b1-4335-b811-5ad51e0ec1fe)
 
 
 ### RESULTS 
